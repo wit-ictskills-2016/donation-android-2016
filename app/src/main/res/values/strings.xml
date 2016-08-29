@@ -12,5 +12,6 @@
     <string name="amountSoFarLabel">Total so far:</string>
 
     <string name="menuReport">Report</string>
+    <string name="reportTitle">Report</string>
 
 </resources>
