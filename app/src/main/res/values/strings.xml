@@ -10,4 +10,7 @@
     <string name="amount">Amount:</string>
     <string name="initialAmount">0</string>
     <string name="amountSoFarLabel">Total so far:</string>
+
+    <string name="menuReport">Report</string>
+
 </resources>
