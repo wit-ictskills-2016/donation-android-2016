@@ -1,6 +1,8 @@
-package app.donation;
+package app.donation.activity;
 
 import app.donation.R;
+import app.donation.main.DonationApp;
+import app.donation.model.Donation;
 
 import android.content.Context;
 import android.content.Intent;
