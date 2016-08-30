@@ -52,7 +52,7 @@ public class Report extends AppCompatActivity
     }
     return true;
   }
-  
+
 }
 
 class DonationAdapter extends ArrayAdapter<Donation>

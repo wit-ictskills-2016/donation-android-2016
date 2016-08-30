@@ -19,4 +19,7 @@
 
   <string name="menuDonate">Donate</string>
 
+  <string name="welcomeLogin">Login</string>
+  <string name="welcomeSignup">Sign up</string>
+
 </resources>
