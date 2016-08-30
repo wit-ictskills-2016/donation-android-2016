@@ -21,7 +21,7 @@
 
   <string name="welcomeLogin">Login</string>
   <string name="welcomeSignup">Sign up</string>
-  
+
   <string name="signupTitle">Sign up for the Donation App</string>
   <string name="signupSubtitle">Enter details below</string>
   <string name="signupFirstname">First name</string>
@@ -29,5 +29,12 @@
   <string name="signupEmail">Email</string>
   <string name="signupPassword">Password</string>
   <string name="signupRegister">Register</string>
+
+  <string name="title_activity_login">Login</string>
+  <string name="loginTitle">Login to Donation</string>
+  <string name="loginSubtitle">You must be registered</string>
+  <string name="loginSignin">Sign in</string>
+  <string name="loginEmail">Email</string>
+  <string name="loginPassword">Password</string>
 
 </resources>
