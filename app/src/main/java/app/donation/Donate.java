@@ -80,7 +80,7 @@ public class Donate extends AppCompatActivity
 
     amountText.setText("");
     amountPicker.setValue(0);
-    
+
   }
 
   @Override
